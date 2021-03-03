@@ -6,7 +6,7 @@
         android:icon="@drawable/ic_baseline_search_24" />
     <item
         android:id="@+id/contactOption"
-        android:title="@string/search"
+        android:title="@string/contacts"
         android:icon="@drawable/ic_baseline_contactless_24" />
     <item
         android:id="@+id/accountOption"
