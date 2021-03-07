@@ -1,4 +1,4 @@
-package com.viselvis.moviedatabasekotlin.`interface`
+package com.viselvis.moviedatabasekotlin.interfaces
 
 import com.viselvis.moviedatabasekotlin.model.MovieResponse
 import retrofit2.Call
